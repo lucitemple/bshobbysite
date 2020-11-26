@@ -1,0 +1,2 @@
+# bshobbysite
+Learning exercise - bootstrap
